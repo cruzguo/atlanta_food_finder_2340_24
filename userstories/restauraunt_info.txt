@@ -1,0 +1,26 @@
+Author: Arshiya Rahman
+
+User Story D1: Viewing Restaurant Information
+=============================================
+As a user
+I want to view detailed information about a restaurant, including its address, contact information, cuisine type, ratings and reviews
+So that I can decide if I want to visit it.
+
+Story Card:
+---------------------------------------------
+First, you select the icon of the restaurant you want to view from a map.
+Next, you will be presented with a pop-up that will display the restaurant's name and logo, its address, contact information, cuisine type, and reviews.
+Finally, you will read through the information and have the option to visit their Google Maps address or save the restaurant as a favorite.
+
+Task Card: Select the icon of the restaurant
+---------------------------------------------
+The map will display multiple icons of restaurants that fit the users search criteria.
+Using their mouse, they will left-click the icon which will act like a button, telling the system to display the stored information on that website.
+
+Task Card: Pop-Up and Menu
+---------------------------------------------
+The pop-up window will sit center in the screen, with a minimize and close option in the top right.
+The user can view the information in order of importance: Name and logo, address, cuisine type, reviews, and contact information.
+The address text will be a hyper-link to the Google maps directions. Similarly, contact information will take the user to the restaurants website.
+If the user wishes to save this restaurant, there will be a "save this restaurant" button at the bottom of the menu that they will click, telling
+the system to store the website in their profile information.

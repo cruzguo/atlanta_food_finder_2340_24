@@ -1,0 +1,20 @@
+Author: Arshiya Rahman
+
+User Story D2: Viewing Restaurant Reviews
+=============================================
+As a user, 
+I want to see Google reviews and ratings for restaurants
+so that I can make informed decisions.
+
+Story Card:
+---------------------------------------------
+First, you scroll through the restaurant's information pop-up until you hit "Reviews"
+Next, you will see the top Google reviews for the restaurant, including the rating that is associated with each review.
+Finally, once you hit the end of the presented reviews, you will have the option to view more reviews.
+
+Task Card: Viewing Reviews
+---------------------------------------------
+The information pop-up will display a variety of information for the user. Reviews will be after "cuisine type".
+Using the scroll wheel or arrow keys, the user can scroll through the top 3-5 reviews from Google and see the associated information (reviewer, ratings, etc.)
+At the end of the scroll menu, the user can click the "view more" button to load in additional reviews from Google's database until there are none left.
+The user will also have the option to return to the top of the reviews through a "return to top" button that is next to "view more".
