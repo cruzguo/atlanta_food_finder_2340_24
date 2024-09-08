@@ -1,0 +1,29 @@
+Author: Cruz Guo
+
+User Story C2: Restaurant Detail Access from Map
+=============================================
+As a user,
+I want to click on a restaurant marker on the map
+so that I can see detailed information about that restaurant.
+
+Story Card: General gist of the application
+---------------------------------------------
+First, once you have searched searched for the restaurant you are interested in, you select the icon of the restaurant you want to view from a map.
+Second, you will be presented with a small pop-up bubble on the map that will display the restaurant's name and logo.
+Third, there will be a bottom pop-up window with detailed information including address, contact information such as phone number and website, cuisine type, google reviews with the option to swipe to see more, estimated cost of dining, photos about description, any suggested app downloads, hours, and any other useful information such as ordering options.
+Fourth, if ordering option is clicked on, there will be another pop-up that details the types of ordering options available such as in-persion -> (another pop-up) dine-in or takeout and online -> (another pop-up) pickup or delivery.
+Finally, you will read through the information and have the option to visit their Google Maps address or save the restaurant as a favorite.
+
+Task Card: Select the icon of the restaurant
+---------------------------------------------
+The map will display an icon of restaurants that fit the users search criteria.
+Using their mouse, they will left-click the desired restaurant icon which will act like a button, telling the system to display the specified stored information on that restaurant with additional icons with symbols and acting as buttons to better organize and display information as specified in the story card.
+
+Task Card: Pop-Up and Menu
+---------------------------------------------
+The pop-up window will sit on the bottom of the screen, with the ability to scroll down and a close option on the top right.
+The user can view the information in order of importance as indicated in User Story D1 in the bottom pop-up window with any other useful information being at the very bottom of the window popup. 
+The address text will be a hyper-link to the Google maps directions. Similarly, contact information will diplsay the phone number and give the user an option to visit the restaurants' website.
+The google reviews will have a small hyperlink on the top right of the section to visit yelp and google reviews for more reviews than the limited amount available on the window popup.
+If the user clicks on suggested app downloads, then the user will be taken to their respective stores to and be given an option to download the restaurant's app. 
+If the user wishes to save this restaurant, there will be a "save this restaurant" button at the bottom of the menu that they will click, telling the system to store the website in their profile information.
